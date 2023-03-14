@@ -21,7 +21,7 @@ description:        Intro. course in data science
 url:                "https://laiyang9319.github.io"
 baseurl:            "/test"
 course_url:         "https://laiyang9319.github.io/test/"
-title:              ds4ps   # GitHub account name
+title:              Laiyang9319      # GitHub account name
 
 brand:
     image:          # logo.svg  # e.g. logo.png, upload logo image file to /assets/img/ folder
@@ -66,17 +66,12 @@ calendly:      'https://calendly.com/jamisoncrawford/20min'
 
 header:
 - title: Syllabus
-  url:
-- title: Schedule-V1
-  url: schedule-v2/
-- title: Schedule-V2
+  url: 
+- title: Course Schedule
   url: schedule/
-# - title: Textbook
-#   url: https://ds4ps.org/dp4ss/#dp4ss-data-programming-for-the-social-sciences
-- title: Lab Templates
-  url: templates/
-- title: Review Sessions
-  url: review/
+- title: Textbook
+  url: https://ds4ps.org/dp4ss/
+#  url: textbook/
 - title: Resources
   url: resources/
 - title: Get Help
