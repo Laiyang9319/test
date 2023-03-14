@@ -13,8 +13,8 @@
 github_info:
     username:       Laiyang9319   # GitHub account name
     branch:         master
-    website-repo:   intro-data-science-TEMPLATE
-    course-repo:    intro-data-science-TEMPLATE
+    website-repo:   test
+    course-repo:    test
  
 description:        Intro. course in data science
 
