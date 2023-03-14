@@ -11,16 +11,16 @@
 
 
 github_info:
-    username:       DS4PS   # GitHub account name
+    username:       Laiyang9319   # GitHub account name
     branch:         master
     website-repo:   intro-data-science-TEMPLATE
     course-repo:    intro-data-science-TEMPLATE
  
 description:        Intro. course in data science
 
-url:                "https://ds4ps.github.io"
-baseurl:            "/intro-data-science-TEMPLATE"
-course_url:         "https://ds4ps.github.io/intro-data-science-TEMPLATE/"
+url:                "https://laiyang9319.github.io"
+baseurl:            "/test"
+course_url:         "https://laiyang9319.github.io/test/"
 title:              ds4ps   # GitHub account name
 
 brand:
